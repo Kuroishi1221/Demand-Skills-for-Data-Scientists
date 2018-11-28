@@ -17,9 +17,9 @@ def usefile(file1):
     print(liscount)
     chart(liscount)
 def chart(data):
-    line_chart = pygal.Pie()
-    line_chart.title = 'job want'
+    line_chart = pygal.Pie(print_labels=True, print_values=True)
+    line_chart.title = 'Data Scientist Job Listing'
     for i in data:
-        line_chart.add(*i)
+        line_chart.add(i[0], [{'value': i[1], 'label': i[0]}])
     line_chart.render_to_file('img/Jobwant1.svg')
 openfile()
