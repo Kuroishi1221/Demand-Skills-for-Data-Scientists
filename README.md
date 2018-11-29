@@ -1,12 +1,13 @@
 # Demand-Skills-for-Data-Scientists
 This project is a part of the subject Problem Solving in Information Technology (PSIT), Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).
+
 This project is about doing data analysis. We've chosen the title Demand Skills for Data Scientists for this project. Our main target is to how should data scientists who want to be in demand by employers spend their learning budget?
 
 ## Information
 
-** Project Site: ** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists 
-** Last Updated: ** XXX
-** Project Status: ** XXX
+**Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists 
+**Last Updated:** XXX
+**Project Status:** XXX
 
 ## Statistics
 
