@@ -3,7 +3,7 @@ This project is a part of the subject Problem Solving in Information Technology 
 
 ## Information
 
-**Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists
+**Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists <\br>
 **Last Updated:**
 **Project Status:**
 
