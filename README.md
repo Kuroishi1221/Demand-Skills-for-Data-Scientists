@@ -16,6 +16,7 @@ This project is a part of the subject Problem Solving in Information Technology 
 
 ## Group Members
 
-|<img src="img/member/1.png" width="120px" height="120px">|<img src="img/member/2.png" width="120px" height="120px">|<img src="img/member/3.png" width="120px" height="120px">|<img src="img/member/4.jpg" width="120px" height="120px">
+|<img src="img/member/1.png" width="120px" height="120px">|<img src="img/member/2.png" width="120px" height="120px">|<img src="img/member/3.png" width="120px" height="120px">|<img src="img/member/4.jpg" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[Kuroishi](https://github.com/Kuroishi1221)|[toplordsaito](https://github.com/toplordsaito)|[Chokcolate]https://github.com/Chokcolate)|[tanjry](https://github.com/tanjry)
+|[Kuroishi](https://github.com/Kuroishi1221)|[toplordsaito](https://github.com/toplordsaito)|[Chokcolate](https://github.com/Chokcolate)|
+[tanjry](https://github.com/tanjry)|
