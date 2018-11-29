@@ -6,14 +6,11 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 ## Information
 
 **Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists 
-**Last Updated:** XXX
-**Project Status:** XXX
 
 ## Statistics
 
-**Started:** 2 November 2018
-**Completed:** XXX
-**Total Days:** XXX
+**Started:** 2 November 2018.
+
 **Main Language:** Python
 
 ## Group Members
