@@ -18,5 +18,5 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 |<img src="img/member/1.png" width="120px" height="120px">|<img src="img/member/4.jpg" width="120px" height="120px">|<img src="img/member/3.png" width="120px" height="120px">|<img src="img/member/2.png" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |[Kuroishi](https://github.com/Kuroishi1221)|[toplordsaito](https://github.com/toplordsaito)|[Chokcolate](https://github.com/Chokcolate)|[tanjry](https://github.com/tanjry)|
-|Ratchanon<br>Chumbunyeanyong|Waruwat<br>Chaidit|Terawat<br>Areekua|Jharinya<br>Jaipakdee|
+|Ratchanon<br>Chumbunyeanyong|Waruwat<br>Chaidit|Terawat<br>Kanjanapanwong|Jharinya<br>Jaipakdee|
 |61070182|61070214|61070093|61070021|
