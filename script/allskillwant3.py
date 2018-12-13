@@ -15,7 +15,7 @@ def usefile(file1):
 def chart(data):
     want = 10
     line_chart = pygal.Bar()
-    line_chart.title = 'Technologu Skill Form Job Wanting'
+    line_chart.title = 'Technology Skill From Job Wanting'
     #line_chart.x_labels = [i[0] for i in data]
     for i, j in data:
         print(i, j)
