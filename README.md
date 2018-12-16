@@ -9,7 +9,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 
 ## Project detail##
 1.Talk about what is data scientists
-/n2.
+
 
 
 ## Statistics
