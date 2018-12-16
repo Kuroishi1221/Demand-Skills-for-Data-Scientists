@@ -8,7 +8,8 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 **Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists 
 
 ## Project detail##
-**1.Talk about what is data scientists
+1.Talk about what is data scientists
+2.
 
 
 ## Statistics
