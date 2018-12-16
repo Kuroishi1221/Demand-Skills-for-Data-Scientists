@@ -1,19 +1,36 @@
+""" Demand Skill For Data Scientist
+    #skill want2
+            #MEMBER#
+    #61070214 Waruwat   Chaiyadith
+    #61070021 Jharinya  Jaipakdee
+    #61070093 Terawat   Kanjanapanwong
+    #61070182 Ratchanon Chumbunyeanyong """
 import os
 import csv
 import pygal
-lis = []
+
+
+
 def openfile():
+    """ Open File CSV and set to list"""
     with open('csvfile/job.csv') as csvfile:
         file1 = csv.reader(csvfile)
         print('open Success')
         usefile(list(file1))
+
+
+
 def usefile(file1):
+    """ Set format list to Use"""
     data1 = []
     for i in file1[1:]:
         data1.append([i[0], sum(map(lambda x: int(x.replace(',','')), i[1:5]))])
     chart(data1)
+
+
+
 def chart(data):
-    want = 10
+    """ Convert List To Graph """
     line_chart = pygal.Bar()
     line_chart.title = 'Technology Skill From Job Wanting'
     #line_chart.x_labels = [i[0] for i in data]
