@@ -5,7 +5,6 @@
     #61070021 Jharinya  Jaipakdee
     #61070093 Terawat   Kanjanapanwong
     #61070182 Ratchanon Chumbunyeanyong """
-import os
 import csv
 import pygal
 
@@ -38,4 +37,7 @@ def chart(data):
     for i in data:
         line_chart.add(*i)
     line_chart.render_to_file('img/skillall.svg')
+
+
+
 openfile()
