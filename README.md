@@ -5,13 +5,16 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 
 ## Information
 
-**Project Site:** https://github.com/Kuroishi1221/Demand-Skills-for-Data-Scientists 
+**Project Site:** https://bit.ly/2CgK9aO
 
 ## Project detail
 1. Talk about what is data scientists
 2. Talk about employment Opportunity From Web Job Search
 3. Talk about salary
 4. Talk about General skill in data scientist job listing
+5. Talk about What did the most data scientist graduate in
+6. Talk about popular languge for data scientist
+7. Talk about 
 
 
 
