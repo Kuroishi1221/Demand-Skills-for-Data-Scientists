@@ -20,6 +20,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 if you are concerned about being a data scientist, you should studying business computers, analyzing statistics, computer science,
 Machine learning and more, and you should study Python, R and SQL languages and others 
 for to be a good data  scientist and have a good job
+
 <img src="img/Screenshot (8).png">
 
 
