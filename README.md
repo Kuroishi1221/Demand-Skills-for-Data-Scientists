@@ -20,6 +20,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 **Started:** 2 November 2018.
 
 **Main Language:** Python
+
 **Python Module**
 * Pygal
 * Pandas
