@@ -14,7 +14,6 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 4. Talk about General skill in data scientist job listing
 5. Talk about What did the most data scientist graduate in
 6. Talk about popular languge for data scientist
-7. Talk about 
 
 
 
