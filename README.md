@@ -20,7 +20,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 
 ## Statistics
 
-**Started:** 2 November 2018.
+**Project Started:** 2 November 2018.
 
 **Main Language:** Python
 
