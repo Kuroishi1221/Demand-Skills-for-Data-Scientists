@@ -16,6 +16,11 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 6. Talk about popular languge for data scientist
 7. Talk about what is data scientist do
 
+## Overall Operation
+if you are concerned about being a data scientist, you should studying business computers, analyzing statistics, computer science,
+Machine learning and more, and you should study Python, R and SQL languages and others 
+for to be a good data  scientist and have a good job
+
 
 
 ## Statistics
@@ -23,6 +28,8 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 **Project Started:** 2 November 2018.
 
 **Completed:** 17 December 2018.
+
+**Project Status:** Completed
 
 **Main Language:** Python
 
