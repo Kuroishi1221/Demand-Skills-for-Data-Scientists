@@ -20,7 +20,10 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 **Started:** 2 November 2018.
 
 **Main Language:** Python
-
+**Python Module**
+* Pygal
+* Pandas
+* Numpy
 ## Group Members
 
 |<img src="img/member/1.png" width="120px" height="120px">|<img src="img/member/4.jpg" width="120px" height="120px">|<img src="img/member/3.png" width="120px" height="120px">|<img src="img/member/2.png" width="120px" height="120px">|
