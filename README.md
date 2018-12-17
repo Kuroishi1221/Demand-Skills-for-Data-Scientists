@@ -14,6 +14,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 4. Talk about General skill in data scientist job listing
 5. Talk about What did the most data scientist graduate in
 6. Talk about popular languge for data scientist
+7. Talk about what is data scientist do
 
 
 
@@ -34,3 +35,9 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 |[Kuroishi](https://github.com/Kuroishi1221)|[toplordsaito](https://github.com/toplordsaito)|[Chokcolate](https://github.com/Chokcolate)|[tanjry](https://github.com/tanjry)|
 |Ratchanon<br>Chumbunyeanyong|Waruwat<br>Chaidit|Terawat<br>Kanjanapanwong|Jharinya<br>Jaipakdee|
 |61070182|61070214|61070093|61070021|
+
+## Credits
+* https://www.emolument.com/salary-reports/jobs/data-science
+* EIC Analysis | Economic Intelligence Center (EIC)
+* https://www.kaggle.com/kaggle/kaggle-survey-2018
+* https://www.kaggle.com/discdiver
