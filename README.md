@@ -7,7 +7,7 @@ This project is about doing data analysis. We've chosen the title Demand Skills 
 
 **Project Site:** https://bit.ly/2CgK9aO
 
-**Project Present Video:** https://youtu.be/hbxie3CG5uU
+**Project Present Video:** https://youtu.be/QcDuGKQtYlU
 
 ## Project detail
 1. Talk about what is data scientists
